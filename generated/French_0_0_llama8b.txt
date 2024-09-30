@@ -1,0 +1,100 @@
+Bonjour
+Merci
+Au revoir
+S'il vous plaît
+Je m'appelle
+Je suis
+Je vais
+Je voudrais
+Pouvez-vous
+Oui
+Non
+Désolé
+Excusez-moi
+Pouvez-vous m'aider?
+Je suis perdu
+Je suis fatigué
+Je suis heureux
+Je suis triste
+Je suis content
+Je suis curieux
+Je suis impatient
+Je suis nerveux
+Je suis fier
+Je suis peiné
+Je suis énervé
+Je suis épuisé
+Je suis émerveillé
+Je suis étonné
+Je suis ému
+Je suis ébloui
+Je suis ébahi
+Je suis émerveillée
+Je suis étonnée
+Je suis émue
+Je suis éblouie
+Je suis ébahie
+Voilà
+Voici
+Voilà que
+Voici qui
+Voilà qui
+Voilà cela
+Voici cela
+Voilà ceci
+Voici ceci
+C'est
+Ça
+C'est que
+Ça est que
+C'est quoi
+Ça est quoi
+Qui est-ce?
+Qu'est-ce que?
+Qui est-ce qui?
+Qu'est-ce que c'est?
+C'est bien
+Ça va bien
+C'est mieux
+Ça ira mieux
+C'est plus
+Ça est plus
+C'est moins
+Ça est moins
+C'est égal
+Ça est égal
+C'est différent
+Ça est différent
+C'est pareil
+Ça est pareil
+C'est autre chose
+Ça est autre chose
+C'est comme ça
+Ça est comme ça
+C'est pas
+Ça n'est pas
+C'est vrai
+Ça est vrai
+C'est faux
+Ça est faux
+C'est possible
+Ça est possible
+C'est impossible
+Ça est impossible
+C'est certain
+Ça est certain
+C'est incertain
+Ça est incertain
+C'est probable
+Ça est probable
+C'est improbable
+Ça est improbable
+C'est raisonnable
+Ça est raisonnable
+C'est irraisonnable
+Ça est irraisonnable
+C'est logique
+Ça est logique
+C'est illogique
+Ça est illogique
+Au revoir

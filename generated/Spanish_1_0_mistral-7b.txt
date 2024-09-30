@@ -1,0 +1,100 @@
+Hola
+Adiós
+Gracias
+Por favor
+Lo siento
+Sí
+No
+Claro
+Qué
+¿Cómo?
+¿Dónde?
+¿Por qué?
+¿Quien?
+Amor
+Gato
+Silla
+Mesa
+Libro
+Casa
+Perro
+Huevo
+Fruta
+Manzana
+Plátano
+Naranja
+Arroz
+Pan
+Agua
+Leche
+Café
+Cerveza
+Vino
+Comer
+Bebér
+Ir
+Llegar
+Fuentes
+Puerta
+Mundo
+Estrella
+Sol
+Luna
+Ciudad
+Paisaje
+Parque
+Plaza
+Calle
+Cera
+Velas
+Luz
+¿Qué tal?
+Me gusta
+A mí me gusta...
+No me gusta
+¿Cómo estás?
+Me siento
+Atrás
+Frente
+Abajo
+Encima
+Derecha
+Izquierda
+Hacia
+A través
+Con
+Por
+Una
+Dos
+Tres
+Cuatro
+Cinco
+Seis
+Siete
+Ocho
+Nueve
+Diez
+Cuenta
+Clave
+Cerrar
+Oír
+Larón
+Llorar
+Ríe
+Ría
+Llora
+Preocupado
+Feliz
+Triste
+Solo
+Amigo
+Clavo
+Tenedor
+Cuchillo
+Bocadillo
+Taza
+Platillo
+Tapas
+Cocinar
+Comidar
+Muy

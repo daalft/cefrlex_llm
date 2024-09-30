@@ -1,0 +1,100 @@
+Hola
+Por favor
+Gracias
+¿Cómo estás?
+Sí
+No
+¿Qué tal?
+No entiendo
+Disculpa
+Sálvame
+Me gusta
+¿Dónde está el baño?
+¿Dónde comprar comer
+Déjame
+Lo siento
+Por favor, habla lento
+¿Tienes un lápiz?
+Gracias por
+¿Qué es esto?
+Adiós
+Sí, soy
+¿Dónde vives?
+Aquí
+Allá
+Cuando
+¿Cómo se dice en español?
+Otro
+Este
+Es
+Poco
+mucho
+Algo
+Nada
+Muy
+¿Dónde está el parque?
+El/La
+Un/Una/Los/Las
+El sol
+La luna
+El agua
+El aire
+La tierra
+Un libro
+Una taza
+Una mesa
+Una silla
+Una mano
+Un pie
+El hambre
+La sed
+El coche
+La casa
+La puerta
+La ventana
+El teléfono
+La computadora
+La camisa
+El pantalón
+La blusa
+El sombrero
+Los zapatos
+El reloj
+El billete
+El sabor
+El olfato
+La vista
+El oído
+El nariz
+La boca
+El diente
+El pelo
+El ojo
+El corazón
+El cerebro
+El corpo
+Los dedos
+La mano derecha
+La mano izquierda
+El pie derecho
+El pie izquierdo
+El muslo
+La pierna
+El hombro
+El brazo
+El cuello
+La cabeza
+Los ojos
+Las orejas
+La boca
+Las nasales
+La nariz
+La lengua
+Los dientes
+La voz
+El rostro
+El cuello
+La garganta
+El estómago
+El hígado
+El páncreas

@@ -1,0 +1,100 @@
+Bonjour
+Merci
+Au revoir
+S'il vous plaît
+Excusez-moi
+Pouvez-vous
+Oui
+Non
+Je m'appelle
+Je suis
+Je voudrais
+Je prends
+Je mange
+Je bois
+Je vais
+Je suis fatigué
+Je suis perdu
+Je suis heureux
+Je suis triste
+Je suis fier
+Je suis désolé
+Je suis curieux
+Je suis énervé
+Je suis épuisé
+Je suis émerveillé
+Je suis étonné
+Je suis déçu
+Je suis ravi
+Je suis ému
+Je suis étrange
+Je suis bizarre
+Je suis drôle
+Je suis sérieux
+Je suis aimable
+Je suis gentil
+Je suis sage
+Je suis brave
+Je suis rapide
+Je suis lent
+Je suis fort
+Je suis faible
+Je suis grand
+Je suis petit
+Je suis beau
+Je suis belle
+Je suis nouveau
+Je suis ancien
+Je suis unique
+Je suis commun
+Je suis étranger
+Je suis habitant
+Je suis étudiant
+Je suis travailleur
+Je suis retraité
+Je suis enfant
+Je suis adulte
+Je suis vieillard
+Je suis femme
+Je suis homme
+Je suis garçon
+Je suis fille
+Je suis père
+Je suis mère
+Je suis frère
+Je suis soeur
+Je suis ami
+Je suis ennemi
+Je suis voisin
+Je suis voilier
+Je suis pêcheur
+Je suis cultivateur
+Je suis artisan
+Je suis enseignant
+Je suis médecin
+Je suis ingénieur
+Je suis écrivain
+Je suis artiste
+Je suis musicien
+Je suis peintre
+Je suis sculpteur
+Je suis poète
+Je suis philosophe
+Je suis scientifique
+Je suis inventeur
+Je suis découvreur
+Je suis explorateur
+Je suis diplomate
+Je suis journaliste
+Je suis avocat
+Je suis policier
+Je suis militaire
+Je suis marin
+Je suis officier
+Je suis soldat
+Je suis étudiant
+Je suis enseignant
+Je suis employé
+Je suis patron
+Je suis client
+Je suis fournisseur
